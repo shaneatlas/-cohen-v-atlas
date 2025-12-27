@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "source": "Proposed Findings of Fact and Conclusions of Law / Summary Final Judgment",
+    "docket_ref": "CIR-169 / DIN 169",
+    "date": "08/02/2025",
+    "record_pages": "1341-1354",
+    "extraction_date": "2025-12-27",
+    "method": "CUARC-compatible: court findings as canonical determinations",
+    "entering_judge": "Hon. Reemberto Diaz"
+  },
+  "findings_of_fact": [
+    {
+      "Entity": "FOF-1",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "Lease executed; term 12/22/2017 to 12/21/2018",
+      "Related_Entity": "E-LEASE-01",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "Plaintiff, Eli Cohen ('Plaintiff'), and Defendants, Jeff Atlas and Susan Atlas ('Defendants'), entered into a written residential lease agreement (the 'Lease') commencing on December 22, 2017 and ending on December 21, 2018"
+    },
+    {
+      "Entity": "FOF-2",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "Lease allocates tenant responsibility to 3 items only",
+      "Related_Entity": "E-LEASE-01",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "Section IX of the Lease allocates various maintenance responsibilities between Plaintiff as tenant and Defendants as landlords, and states that Plaintiff shall solely be responsible for maintaining three categories of items: (1) locks and keys; (2) furniture; and (3) heating and air conditioning filters."
+    },
+    {
+      "Entity": "FOF-3",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "All other maintenance = Defendants' responsibility",
+      "Related_Entity": "I-MAINT",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "All other maintenance was to be performed by Defendants, including but not limited to, maintenance of running water, hot water, air conditioning, appliances, fixtures, and all 'major maintenance or major replacement of equipment', which is defined as repairs or replacements that cost more than $200.00."
+    },
+    {
+      "Entity": "FOF-13",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "Plaintiff paid $2,026.49 for washer/dryer replacement",
+      "Related_Entity": "I-DAMAGES",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "As a result of Defendants' failure to comply with their maintenance obligations under the Lease, Plaintiff was forced to pay $2,026.49 for replacement of the washer and dryer."
+    },
+    {
+      "Entity": "FOF-14",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "Plaintiff paid $6,500 for mold remediation",
+      "Related_Entity": "I-DAMAGES",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "Plaintiff was forced to retain Miami Mold, a mold remediation specialist, at a cost of $6,500 for professional mold inspection and remediation."
+    },
+    {
+      "Entity": "FOF-16",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "Total damages = $8,526.49",
+      "Related_Entity": "I-DAMAGES",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "Plaintiff sustained damages totaling at least $8,526.49 as a direct result of Defendants' breach."
+    },
+    {
+      "Entity": "FOF-17",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "Plaintiff demanded return of $4,200 security deposit",
+      "Related_Entity": "I-SECDEP",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "At the conclusion of the Lease term, Plaintiff vacated the Unit and demanded return of his $4,200.00 security deposit."
+    },
+    {
+      "Entity": "FOF-18",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "Defendants did NOT provide written notice within 30 days",
+      "Related_Entity": "I-SECDEP",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "Defendants did not return the deposit and did not provide written notice of a claim against the deposit within the thirty (30) days as required by Section 83.49(3)(a), Florida Statutes."
+    },
+    {
+      "Entity": "FOF-19",
+      "Category": "Court_Finding",
+      "Definition_or_Context": "Defendants presented no evidence creating GMF",
+      "Related_Entity": "I-SUMMARY",
+      "Relation_Type": "ESTABLISHES",
+      "Evidence_or_Quote": "Defendants have presented no evidence to create a genuine issue of material fact regarding any of Plaintiff's claims, including breach of contract, negligent misrepresentation, or statutory violation of Section 83.48, Florida Statutes."
+    }
+  ],
+  "conclusions_of_law": [
+    {
+      "Entity": "COL-COUNT1",
+      "Category": "Court_Conclusion",
+      "Definition_or_Context": "Breach of Contract - Plaintiff prevails",
+      "Related_Entity": "I-MAINT",
+      "Relation_Type": "DECIDES",
+      "Evidence_or_Quote": "Defendants' failure to perform necessary repairs under the Lease constitutes a material breach of the Lease's express maintenance provisions. Plaintiff is the prevailing party on this claim and entitled to attorneys' fees and costs based upon the express language of the Lease."
+    },
+    {
+      "Entity": "COL-COUNT2",
+      "Category": "Court_Conclusion",
+      "Definition_or_Context": "Negligent Misrepresentation - Plaintiff prevails",
+      "Related_Entity": "I-MISREP",
+      "Relation_Type": "DECIDES",
+      "Evidence_or_Quote": "The facts support the conclusion that Defendants' conduct constituted negligent misrepresentation, and Plaintiff is entitled to judgment on this claim."
+    },
+    {
+      "Entity": "COL-COUNT3",
+      "Category": "Court_Conclusion",
+      "Definition_or_Context": "Security Deposit - §83.49 violation; Plaintiff prevails",
+      "Related_Entity": "I-SECDEP",
+      "Relation_Type": "DECIDES",
+      "Evidence_or_Quote": "Because Defendants failed to issue the required statutory notice, they forfeited any right to impose a claim against the security deposit. Accordingly, based on Defendants' noncompliance with Florida Statutes, Plaintiff is entitled to summary judgment on this claim, the immediate return of the full $4,200 security deposit, and entitled to an award of attorneys' fees and costs under Fla. Stat. § 83.48."
+    }
+  ],
+  "affirmative_defense_rejections": [
+    {
+      "Entity": "AD-1-REJECTED",
+      "Category": "Court_Ruling",
+      "Definition_or_Context": "Condo Rules defense - inapplicable",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "REJECTS_DEFENSE",
+      "Evidence_or_Quote": "Defendants' claim that Plaintiff violated condominium rules concerning mold and water intrusion is inapplicable. Under the Lease, Defendants were responsible for maintaining the Unit."
+    },
+    {
+      "Entity": "AD-2-REJECTED",
+      "Category": "Court_Ruling",
+      "Definition_or_Context": "Failure to Mitigate - rejected",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "REJECTS_DEFENSE",
+      "Evidence_or_Quote": "The record reflects that Plaintiff made multiple efforts to have Defendants repair the Unit. Plaintiff only engaged third-party contractors when Defendants failed to act. There is no evidence to support the defense that Plaintiff failed to mitigate damages."
+    },
+    {
+      "Entity": "AD-3-REJECTED",
+      "Category": "Court_Ruling",
+      "Definition_or_Context": "Set-Off - no basis",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "REJECTS_DEFENSE",
+      "Evidence_or_Quote": "Defendants have failed to articulate or present evidence to support any basis for set-off. Plaintiff does not owe Defendants any debt or obligation."
+    },
+    {
+      "Entity": "AD-4-REJECTED",
+      "Category": "Court_Ruling",
+      "Definition_or_Context": "Spoliation - rejected; current condition irrelevant",
+      "Related_Entity": "I-SPOLIATION",
+      "Relation_Type": "REJECTS_DEFENSE",
+      "Evidence_or_Quote": "There is no evidence that Plaintiff destroyed or withheld any relevant evidence. Defendants were in possession of the Unit during the entirety of the Lease and for years after Plaintiff's tenancy and had ample opportunity to inspect and document the condition of the Unit as well as the washer and dryer at issue. Moreover, the Court finds that the current condition of the appliances and the apartment have no bearing on the condition of the appliances and the apartment at the time of the issues surrounding this case."
+    },
+    {
+      "Entity": "AD-5-REJECTED",
+      "Category": "Court_Ruling",
+      "Definition_or_Context": "Failure to State Claim - rejected",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "REJECTS_DEFENSE",
+      "Evidence_or_Quote": "Plaintiff has stated valid claims for Breach of Contract, Negligent Misrepresentation, and violation of Fla. Stat. § 83.49. The pleadings and record evidence support each element of the claims. Defendants have not submitted any evidence whatsoever to refute Plaintiff's claims or oppose this summary judgment."
+    },
+    {
+      "Entity": "AD-6-REJECTED",
+      "Category": "Court_Ruling",
+      "Definition_or_Context": "No Relief Under Lease - rejected; Defendants acted in bad faith",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "REJECTS_DEFENSE",
+      "Evidence_or_Quote": "Defendants argue that Plaintiff performed work on the Unit without their consent. However, the evidence shows that Defendants unreasonably refused to perform necessary repairs and acted in bad faith. Plaintiff was compelled to undertake the repairs to preserve the Unit."
+    },
+    {
+      "Entity": "AD-7-REJECTED",
+      "Category": "Court_Ruling",
+      "Definition_or_Context": "Motion to Dismiss - not viable as defense",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "REJECTS_DEFENSE",
+      "Evidence_or_Quote": "Arguments previously raised in a motion to dismiss and denied by the Court do not constitute a viable affirmative defense. This defense fails as a matter of law."
+    }
+  ],
+  "orders": [
+    {
+      "Entity": "ORDER-1",
+      "Category": "Court_Order",
+      "Definition_or_Context": "MSJ GRANTED",
+      "Related_Entity": "CIR-164 / DIN 164",
+      "Relation_Type": "GRANTS",
+      "Evidence_or_Quote": "Plaintiff's Motion for Summary Judgment is hereby GRANTED."
+    },
+    {
+      "Entity": "ORDER-2",
+      "Category": "Court_Order",
+      "Definition_or_Context": "Final Judgment for Plaintiff on all counts",
+      "Related_Entity": "ELI COHEN",
+      "Relation_Type": "IN_FAVOR_OF",
+      "Evidence_or_Quote": "Final Judgment shall be entered in favor of Plaintiff and against Defendants on all counts of the Second Amended Complaint."
+    },
+    {
+      "Entity": "ORDER-3",
+      "Category": "Court_Order",
+      "Definition_or_Context": "Fees entitled under Lease + §83.48",
+      "Related_Entity": "I-SECDEP",
+      "Relation_Type": "AWARDS",
+      "Evidence_or_Quote": "The Court finds that Plaintiff is entitled to attorneys' fees and costs under both the Lease terms and by statute under Fla. Stat. § 83.48."
+    },
+    {
+      "Entity": "ORDER-4",
+      "Category": "Court_Order",
+      "Definition_or_Context": "Jurisdiction reserved for damages/fees determination",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "RESERVES",
+      "Evidence_or_Quote": "The Court reserves jurisdiction to determine the amount of damages, attorneys' fees, and costs."
+    }
+  ],
+  "authorities_cited": [
+    {
+      "Entity": "People's Trust Ins. Co. v. Valentin, 305 So. 3d 324 (Fla. 3d DCA 2020)",
+      "Category": "Case",
+      "Definition_or_Context": "Breach of contract elements",
+      "Related_Entity": "COL-COUNT1",
+      "Relation_Type": "CITED_FOR",
+      "Evidence_or_Quote": "A breach of contract claim requires: (1) a valid contract, (2) a material breach, and (3) damages."
+    },
+    {
+      "Entity": "Coral Gables Distribution, Inc. v. Milich, 992 So. 2d 302 (Fla. 3d DCA 2008)",
+      "Category": "Case",
+      "Definition_or_Context": "Negligent misrepresentation elements",
+      "Related_Entity": "COL-COUNT2",
+      "Relation_Type": "CITED_FOR",
+      "Evidence_or_Quote": "To prove negligent misrepresentation, it must be shown that (1) there was a misrepresentation of material fact; (2) the representer either knew of the misrepresentation..."
+    },
+    {
+      "Entity": "Fla. Stat. § 83.49(3)",
+      "Category": "Statute",
+      "Definition_or_Context": "Security deposit notice requirements",
+      "Related_Entity": "COL-COUNT3",
+      "Relation_Type": "CITED_FOR",
+      "Evidence_or_Quote": "Upon the vacating of the premises for termination of the lease, if the landlord does not intend to impose a claim on the security deposit, the landlord shall have 15 days to return the security deposit together with interest..."
+    },
+    {
+      "Entity": "Wootton v. Iron Acquisitions, LLC, 338 So. 3d 425 (Fla. 2d DCA 2022)",
+      "Category": "Case",
+      "Definition_or_Context": "Strict compliance with §83.49 mandatory",
+      "Related_Entity": "COL-COUNT3",
+      "Relation_Type": "CITED_FOR",
+      "Evidence_or_Quote": "Florida courts have made clear that strict compliance with § 83.49 is mandatory"
+    },
+    {
+      "Entity": "Martinez v. Rds. Point Townhomes, Inc., 393 So. 3d 755 (Fla. 3d DCA 2024)",
+      "Category": "Case",
+      "Definition_or_Context": "30-day notice failure bars claim",
+      "Related_Entity": "COL-COUNT3",
+      "Relation_Type": "CITED_FOR",
+      "Evidence_or_Quote": "the Third District reaffirmed that a landlord's failure to give notice within the required 30-day window bars any claim to the security deposit"
+    }
+  ],
+  "critical_contradiction": [
+    {
+      "Entity": "CONTRADICTION-SECDEP",
+      "Category": "Record_Conflict",
+      "Definition_or_Context": "Court found no notice vs. E-SEC-01 dated 01/06/2018",
+      "Related_Entity": "FOF-18",
+      "Relation_Type": "CONTRADICTS",
+      "Evidence_or_Quote": "SFJ FOF-18: 'Defendants did not return the deposit and did not provide written notice of a claim against the deposit within the thirty (30) days' BUT E-SEC-01 'Notice of Intention to Impose Claim on Deposit' dated 01/06/2018 exists in record",
+      "Appellate_Relevance": "I-SECDEP - core reversal ground"
+    }
+  ],
+  "spine_links": [
+    {
+      "Entity": "CIR-169 / DIN 169",
+      "Category": "Cross_Reference",
+      "Definition_or_Context": "Docket position of SFJ",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "JUDGMENT_IN",
+      "Evidence_or_Quote": "Record_Pages: 1341-1354"
+    },
+    {
+      "Entity": "FOF-18",
+      "Category": "Cross_Reference",
+      "Definition_or_Context": "Links to I-SECDEP reversal ground",
+      "Related_Entity": "I-SECDEP",
+      "Relation_Type": "KEY_FINDING_FOR",
+      "Evidence_or_Quote": "No notice finding contradicted by E-SEC-01"
+    },
+    {
+      "Entity": "AD-4-REJECTED",
+      "Category": "Cross_Reference",
+      "Definition_or_Context": "Court rejected spoliation; Defendants argued otherwise",
+      "Related_Entity": "REPLY-A5",
+      "Relation_Type": "OPPOSES",
+      "Evidence_or_Quote": "Court: 'no evidence Plaintiff destroyed evidence' vs. Reply: 'Police Report documents unauthorized removal'"
+    }
+  ]
+}

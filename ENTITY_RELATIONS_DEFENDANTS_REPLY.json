@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "source": "Defendants' Reply to Plaintiff's Opposition to Motion for Summary Judgment",
+    "docket_ref": "CIR-148 / DIN 148",
+    "date": "02/10/2025",
+    "record_pages": "1036-1039",
+    "extraction_date": "2025-12-27",
+    "method": "CUARC-compatible: all claims typed as motion assertions",
+    "filing_party": "JEFF ATLAS, SUSAN ATLAS (Pro Se)"
+  },
+  "assertions": [
+    {
+      "Entity": "REPLY-A1",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue Plaintiff fails Rule 1.510 burden",
+      "Related_Entity": "Fla. R. Civ. P. 1.510",
+      "Relation_Type": "CITES_RULE",
+      "Evidence_or_Quote": "Plaintiff fails to meet their burden under Fla. R. Civ. P. 1.510. The revised federal-aligned standard requires specific, admissible evidence demonstrating a genuine dispute of material fact."
+    },
+    {
+      "Entity": "REPLY-A2",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue Plaintiff relies on improper support",
+      "Related_Entity": "ELI COHEN",
+      "Relation_Type": "ACCUSES",
+      "Evidence_or_Quote": "Misrepresentations of the law and baseless, conclusory statements without any cited support."
+    },
+    {
+      "Entity": "REPLY-A3",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue renewed MSJ permitted under Florida law",
+      "Related_Entity": "CIR-135 / DIN 135",
+      "Relation_Type": "JUSTIFIES",
+      "Evidence_or_Quote": "Florida law permits renewed summary judgment motions when new legal arguments or evidence are raised."
+    },
+    {
+      "Entity": "REPLY-A4",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue prior rulings voidable after recusal",
+      "Related_Entity": "Fla. R. Jud. Admin. 2.330(h)",
+      "Relation_Type": "CITES_RULE",
+      "Evidence_or_Quote": "Fla. R. Jud. Admin. 2.330(h) requires reconsideration of all rulings by a recused judge."
+    },
+    {
+      "Entity": "REPLY-A5",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue spoliation occurred",
+      "Related_Entity": "Police Report #2019-00042552",
+      "Relation_Type": "EVIDENCED_BY",
+      "Evidence_or_Quote": "Police Report #2019-00042552 documents Plaintiff's unauthorized removal and disposal of Defendant's property."
+    },
+    {
+      "Entity": "REPLY-A6",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue washer/dryer could have been repaired",
+      "Related_Entity": "E-WASH-01",
+      "Relation_Type": "RELATES_TO",
+      "Evidence_or_Quote": "The washer/dryer was under manufacturer warranty—it could have been repaired rather than destroyed."
+    },
+    {
+      "Entity": "REPLY-A7",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants invoke Valcin adverse inference",
+      "Related_Entity": "Public Health Trust v. Valcin",
+      "Relation_Type": "CITES_AUTHORITY",
+      "Evidence_or_Quote": "Under Public Health Trust v. Valcin, 507 So. 2d 596 (Fla. 1987), this mandates an adverse inference."
+    },
+    {
+      "Entity": "REPLY-A8",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue damages unverified",
+      "Related_Entity": "I-DAMAGES",
+      "Relation_Type": "ATTACKS",
+      "Evidence_or_Quote": "Plaintiff's allegations rely on nothing more than unpaid estimates for a washer dryer and unsupported invoices for the alleged remediation, offering no proof of actual payment."
+    },
+    {
+      "Entity": "REPLY-A9",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants cite Miami Mold subpoenaed records",
+      "Related_Entity": "E-MOLD-01",
+      "Relation_Type": "EVIDENCED_BY",
+      "Evidence_or_Quote": "Miami Mold's subpoenaed contemporaneous records (Def. Motion Ex. 11), which confirms 'no proof of payment exists.'"
+    },
+    {
+      "Entity": "REPLY-A10",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue no causation established",
+      "Related_Entity": "I-DAMAGES",
+      "Relation_Type": "ATTACKS",
+      "Evidence_or_Quote": "Plaintiff fails to establish causation, offering no admissible evidence linking the alleged damages to any act or omission by Defendants."
+    },
+    {
+      "Entity": "REPLY-A11",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants argue lack of notice bars recovery",
+      "Related_Entity": "I-SECDEP",
+      "Relation_Type": "RELATES_TO",
+      "Evidence_or_Quote": "This failure is compounded by Plaintiff's lack of required notice, which independently bars recovery under Florida law."
+    },
+    {
+      "Entity": "REPLY-A12",
+      "Category": "Motion_Assertion",
+      "Definition_or_Context": "Defendants seek summary judgment as matter of law",
+      "Related_Entity": "CIR-169 / DIN 169",
+      "Relation_Type": "PRECEDES",
+      "Evidence_or_Quote": "Having failed to provide competent evidence and having destroyed key evidence, Plaintiff cannot avoid summary judgment. As a matter of law, it must be granted."
+    }
+  ],
+  "evidence_references": [
+    {
+      "Entity": "Police Report #2019-00042552",
+      "Category": "Evidence_Reference",
+      "Definition_or_Context": "Law enforcement documentation of property removal",
+      "Related_Entity": "I-SPOLIATION",
+      "Relation_Type": "SUPPORTS",
+      "Evidence_or_Quote": "Police Report #2019-00042552 documents Plaintiff's unauthorized removal and disposal of Defendant's property."
+    },
+    {
+      "Entity": "Def. Motion Ex. 11 (Miami Mold)",
+      "Category": "Evidence_Reference",
+      "Definition_or_Context": "Subpoenaed contemporaneous records",
+      "Related_Entity": "I-DAMAGES",
+      "Relation_Type": "UNDERMINES_OPPOSING",
+      "Evidence_or_Quote": "Miami Mold's subpoenaed contemporaneous records (Def. Motion Ex. 11), which confirms 'no proof of payment exists.'"
+    },
+    {
+      "Entity": "Manufacturer Warranty",
+      "Category": "Evidence_Reference",
+      "Definition_or_Context": "Warranty on washer/dryer",
+      "Related_Entity": "E-WASH-01",
+      "Relation_Type": "RELATES_TO",
+      "Evidence_or_Quote": "The washer/dryer was under manufacturer warranty—it could have been repaired rather than destroyed."
+    }
+  ],
+  "authority_citations": [
+    {
+      "Entity": "Fla. R. Civ. P. 1.510",
+      "Category": "Rule",
+      "Definition_or_Context": "Summary judgment standard (2025 federal-aligned)",
+      "Related_Entity": "REPLY-A1",
+      "Relation_Type": "CITED_IN",
+      "Evidence_or_Quote": "The revised federal-aligned standard requires specific, admissible evidence demonstrating a genuine dispute of material fact."
+    },
+    {
+      "Entity": "Fla. R. Jud. Admin. 2.330(h)",
+      "Category": "Rule",
+      "Definition_or_Context": "Recusal effect on prior rulings",
+      "Related_Entity": "REPLY-A4",
+      "Relation_Type": "CITED_IN",
+      "Evidence_or_Quote": "Fla. R. Jud. Admin. 2.330(h) requires reconsideration of all rulings by a recused judge."
+    },
+    {
+      "Entity": "Public Health Trust v. Valcin, 507 So. 2d 596 (Fla. 1987)",
+      "Category": "Case",
+      "Definition_or_Context": "Spoliation adverse inference doctrine",
+      "Related_Entity": "REPLY-A7",
+      "Relation_Type": "CITED_IN",
+      "Evidence_or_Quote": "Under Public Health Trust v. Valcin, 507 So. 2d 596 (Fla. 1987), this mandates an adverse inference."
+    }
+  ],
+  "spine_links": [
+    {
+      "Entity": "REPLY-A5",
+      "Category": "Cross_Reference",
+      "Definition_or_Context": "Links to spoliation issue",
+      "Related_Entity": "I-SPOLIATION",
+      "Relation_Type": "SUPPORTS_ISSUE",
+      "Evidence_or_Quote": "Assertion anchored to Police Report #2019-00042552"
+    },
+    {
+      "Entity": "REPLY-A8",
+      "Category": "Cross_Reference",
+      "Definition_or_Context": "Links to damages issue",
+      "Related_Entity": "I-DAMAGES",
+      "Relation_Type": "SUPPORTS_ISSUE",
+      "Evidence_or_Quote": "Assertion anchored to Miami Mold Ex. 11"
+    },
+    {
+      "Entity": "REPLY-A11",
+      "Category": "Cross_Reference",
+      "Definition_or_Context": "Links to security deposit issue",
+      "Related_Entity": "I-SECDEP",
+      "Relation_Type": "RELATES_TO_ISSUE",
+      "Evidence_or_Quote": "Assertion re: lack of required notice"
+    },
+    {
+      "Entity": "CIR-148 / DIN 148",
+      "Category": "Cross_Reference",
+      "Definition_or_Context": "Docket position of this filing",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "FILED_IN",
+      "Evidence_or_Quote": "Record_Pages: 1036-1039"
+    }
+  ],
+  "cuarc_quote_table": [
+    {
+      "Quote_ID": "R1",
+      "Type": "R",
+      "Quote": "No proof of payment exists of the S6,500.00 cash payment",
+      "Word_Count": 10,
+      "Source": "Miami Mold letter (quoted in Reply)"
+    },
+    {
+      "Quote_ID": "R2",
+      "Type": "R",
+      "Quote": "unpaid estimates for a washer dryer and unsupported invoices for the alleged remediation",
+      "Word_Count": 14,
+      "Source": "Reply p.3"
+    },
+    {
+      "Quote_ID": "R3",
+      "Type": "R",
+      "Quote": "Police Report #2019-00042552 documents Plaintiff's unauthorized removal and disposal of Defendant's property",
+      "Word_Count": 12,
+      "Source": "Reply p.2"
+    },
+    {
+      "Quote_ID": "R4",
+      "Type": "R",
+      "Quote": "washer/dryer was under manufacturer warranty—it could have been repaired rather than destroyed",
+      "Word_Count": 13,
+      "Source": "Reply p.2"
+    }
+  ]
+}
