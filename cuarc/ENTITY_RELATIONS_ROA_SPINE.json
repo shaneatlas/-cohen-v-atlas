@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "source": "ROA / Docket 2020-000746-CA-01",
+    "extraction_date": "2025-12-27",
+    "method": "CUARC-compatible: verbatim evidence anchors only",
+    "scope": "Canonical spine (docket items, exhibits, orders, dates, parties)"
+  },
+  "entities": [
+    {
+      "Entity": "2020-000746-CA-01",
+      "Category": "Case",
+      "Definition_or_Context": "Circuit Court case; Contract & Indebtedness",
+      "Related_Entity": "2018-011311-CC-05",
+      "Relation_Type": "TRANSFERRED_FROM",
+      "Evidence_or_Quote": "Related Cases Case Number: 2018-011311-CC-05 Filing Date: 05/18/2018"
+    },
+    {
+      "Entity": "2018-011311-CC-05",
+      "Category": "Case",
+      "Definition_or_Context": "Original County Court case",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "TRANSFERRED_TO",
+      "Evidence_or_Quote": "Case Type: Contract and Indebtedness ($8,001- $15,000)"
+    },
+    {
+      "Entity": "3D25-1676",
+      "Category": "Appeal",
+      "Definition_or_Context": "Third DCA Appeal",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "APPEAL_OF",
+      "Evidence_or_Quote": "Notice of Appeal Event [DIN 170, 09/02/2025]"
+    },
+    {
+      "Entity": "ELI COHEN",
+      "Category": "Party",
+      "Definition_or_Context": "Plaintiff / Appellant",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "PLAINTIFF_IN",
+      "Evidence_or_Quote": "Case Style: ELI COHEN vs JEFF ATLAS et al"
+    },
+    {
+      "Entity": "JEFF ATLAS",
+      "Category": "Party",
+      "Definition_or_Context": "Defendant / Appellee",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "DEFENDANT_IN",
+      "Evidence_or_Quote": "Defendant ATLAS, JEFF"
+    },
+    {
+      "Entity": "SUSAN ATLAS",
+      "Category": "Party",
+      "Definition_or_Context": "Defendant / Appellee",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "DEFENDANT_IN",
+      "Evidence_or_Quote": "Defendant ATLAS, SUSAN"
+    },
+    {
+      "Entity": "HABER LAW, LLP",
+      "Category": "Law Firm",
+      "Definition_or_Context": "Plaintiff's counsel",
+      "Related_Entity": "ELI COHEN",
+      "Relation_Type": "REPRESENTS",
+      "Evidence_or_Quote": "HABER LAW, LLP 251 NW 23rd Street Miami, Florida 33127"
+    },
+    {
+      "Entity": "Ariella J. Gutman",
+      "Category": "Attorney",
+      "Definition_or_Context": "Partner at Haber Law; Florida Bar No. 91447",
+      "Related_Entity": "ELI COHEN",
+      "Relation_Type": "COUNSEL_FOR",
+      "Evidence_or_Quote": "ARIELLA J. GUTMAN, ESQ. Fla Bar No. 91447 agutman@haber.law"
+    },
+    {
+      "Entity": "Simone M. Honeygan",
+      "Category": "Attorney",
+      "Definition_or_Context": "Associate at Haber Law; Florida Bar No. 1026030",
+      "Related_Entity": "ELI COHEN",
+      "Relation_Type": "COUNSEL_FOR",
+      "Evidence_or_Quote": "SIMONE M. HONEYGAN, ESQ. Florida Bar No. 1026030 shoneygan@haber.law"
+    },
+    {
+      "Entity": "David B. Haber",
+      "Category": "Attorney",
+      "Definition_or_Context": "Senior Partner at Haber Law",
+      "Related_Entity": "HABER LAW, LLP",
+      "Relation_Type": "PARTNER_AT",
+      "Evidence_or_Quote": "David Brian Haber: dhaber@haber.law"
+    },
+    {
+      "Entity": "Thomas Butler",
+      "Category": "Attorney",
+      "Definition_or_Context": "Former counsel for Defendants; Bar #569178",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "FORMER_COUNSEL_FOR",
+      "Evidence_or_Quote": "Defendant ATLAS, JEFF B#: 569178 Thomas Butler"
+    },
+    {
+      "Entity": "Judge Reemberto Diaz",
+      "Category": "Judge",
+      "Definition_or_Context": "Presiding judge CA30; entered SFJ",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "PRESIDES_OVER",
+      "Evidence_or_Quote": "Judicial Section: CA30 - Downtown Miami - JudgeDiaz, Reemberto"
+    },
+    {
+      "Entity": "Judge Ruiz",
+      "Category": "Judge",
+      "Definition_or_Context": "Former presiding judge; disqualified 10/11/2024",
+      "Related_Entity": "CIR-126",
+      "Relation_Type": "DISQUALIFIED_BY",
+      "Evidence_or_Quote": "Order Granting Disqualification (Ruiz) [DIN 126, 10/11/2024]"
+    },
+    {
+      "Entity": "Judge Del Rio",
+      "Category": "Judge",
+      "Definition_or_Context": "Former presiding judge CA05; recused 01/17/2025",
+      "Related_Entity": "CIR-142",
+      "Relation_Type": "RECUSED_VIA",
+      "Evidence_or_Quote": "Order of Recusal (Del Rio) [DIN 142, 01/17/2025] - Del Rio recused; to CA30 Diaz"
+    }
+  ],
+  "docket_items": [
+    {
+      "Entity": "CIR-169 / DIN 169",
+      "Category": "Judgment",
+      "Definition_or_Context": "Summary Final Judgment",
+      "Related_Entity": "Judge Reemberto Diaz",
+      "Relation_Type": "ENTERED_BY",
+      "Evidence_or_Quote": "Summary Final Judgment [DIN 169, 08/02/2025] Record_Pages: 1341-1354"
+    },
+    {
+      "Entity": "CIR-169 / DIN 169",
+      "Category": "Judgment",
+      "Definition_or_Context": "Summary Final Judgment",
+      "Related_Entity": "I-SUMMARY",
+      "Relation_Type": "TAGGED_ISSUE",
+      "Evidence_or_Quote": "Grants SJ all counts; awards fees under Lease + §83.48"
+    },
+    {
+      "Entity": "CIR-99 / DIN 99",
+      "Category": "Motion",
+      "Definition_or_Context": "Defendants Motion for Summary Judgment (first)",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "FILED_BY",
+      "Evidence_or_Quote": "Defendants Motion for Summary Judgment [DIN 99, 03/08/2024] Record_Pages: 326-339"
+    },
+    {
+      "Entity": "CIR-109 / DIN 109",
+      "Category": "Order",
+      "Definition_or_Context": "Order Denying Defendants MSJ",
+      "Related_Entity": "Judge Ruiz",
+      "Relation_Type": "ENTERED_BY",
+      "Evidence_or_Quote": "Order Denying Defendants MSJ [DIN 109, 06/05/2024] - No evidence presented; factual dispute"
+    },
+    {
+      "Entity": "CIR-135 / DIN 135",
+      "Category": "Motion",
+      "Definition_or_Context": "Amended Renewed MSJ + Sanctions",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "FILED_BY",
+      "Evidence_or_Quote": "Amended Renewed MSJ + Sanctions [DIN 135, 12/22/2024] Record_Pages: 714-840 (127 pages)"
+    },
+    {
+      "Entity": "CIR-161 / DIN 161",
+      "Category": "Order",
+      "Definition_or_Context": "Order Denying Amended Renewed MSJ",
+      "Related_Entity": "Judge Reemberto Diaz",
+      "Relation_Type": "ENTERED_BY",
+      "Evidence_or_Quote": "Order Denying Amended Renewed MSJ [DIN 161, 04/01/2025] - Treats as reconsideration; reasons on record"
+    },
+    {
+      "Entity": "CIR-164 / DIN 164",
+      "Category": "Motion",
+      "Definition_or_Context": "Plaintiff Motion for Summary Judgment",
+      "Related_Entity": "ELI COHEN",
+      "Relation_Type": "FILED_BY",
+      "Evidence_or_Quote": "Plaintiff Motion for Summary Judgment [DIN 164, 05/01/2025] Record_Pages: 1137-1301 (165 pages)"
+    },
+    {
+      "Entity": "CIR-148 / DIN 148",
+      "Category": "Reply",
+      "Definition_or_Context": "Defendants Reply to Opposition",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "FILED_BY",
+      "Evidence_or_Quote": "Defendants Reply to Opposition [DIN 148, 02/10/2025] Record_Pages: 1036-1039"
+    },
+    {
+      "Entity": "CIR-151 / DIN 151",
+      "Category": "Motion",
+      "Definition_or_Context": "Motion for Mandatory Transfer to County",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "FILED_BY",
+      "Evidence_or_Quote": "Motion for Mandatory Transfer to County [DIN 151, 03/01/2025] - $12,726.49 judicial admission"
+    },
+    {
+      "Entity": "CIR-158 / DIN 158",
+      "Category": "Order",
+      "Definition_or_Context": "Order Denying Mandatory Transfer",
+      "Related_Entity": "Judge Reemberto Diaz",
+      "Relation_Type": "ENTERED_BY",
+      "Evidence_or_Quote": "Order Denying Mandatory Transfer [DIN 158, 03/19/2025] - DENIED for reasons on record"
+    },
+    {
+      "Entity": "CIR-170 / DIN 170",
+      "Category": "Notice",
+      "Definition_or_Context": "Notice of Appeal",
+      "Related_Entity": "JEFF ATLAS",
+      "Relation_Type": "FILED_BY",
+      "Evidence_or_Quote": "Notice of Appeal [DIN 170, 09/02/2025] Record_Pages: 1307-1308"
+    },
+    {
+      "Entity": "CIR-176 / DIN 176",
+      "Category": "Order",
+      "Definition_or_Context": "3rd DCA Order - Transcripts Non-Compliant",
+      "Related_Entity": "3D25-1676",
+      "Relation_Type": "ORDER_IN",
+      "Evidence_or_Quote": "3rd DCA Order (Transcripts Non-Compliant) [DIN 176, 10/20/2025] - Transcripts stricken"
+    },
+    {
+      "Entity": "CIR-178 / DIN 178",
+      "Category": "Order",
+      "Definition_or_Context": "3rd DCA Order Denying Stay",
+      "Related_Entity": "3D25-1676",
+      "Relation_Type": "ORDER_IN",
+      "Evidence_or_Quote": "3rd DCA Order Denying Stay [DIN 178, 10/24/2025]"
+    }
+  ],
+  "evidence_items": [
+    {
+      "Entity": "E-SEC-01",
+      "Category": "Exhibit",
+      "Definition_or_Context": "Notice of Intention to Impose Claim on Deposit",
+      "Related_Entity": "I-SECDEP",
+      "Relation_Type": "SUPPORTS_ISSUE",
+      "Evidence_or_Quote": "§83.49(3) notice; $4,200 itemized [dated 01/06/2018]"
+    },
+    {
+      "Entity": "E-MOLD-01",
+      "Category": "Exhibit",
+      "Definition_or_Context": "Miami Mold Specialist Letter",
+      "Related_Entity": "I-MAINT",
+      "Relation_Type": "SUPPORTS_ISSUE",
+      "Evidence_or_Quote": "No proof of $6,500 payment [dated 06/03/2019]"
+    },
+    {
+      "Entity": "E-WASH-01",
+      "Category": "Exhibit",
+      "Definition_or_Context": "BrandsMart Washer/Dryer Receipt",
+      "Related_Entity": "I-MAINT",
+      "Relation_Type": "SUPPORTS_ISSUE",
+      "Evidence_or_Quote": "Atlas purchased before lease [dated 2017]"
+    },
+    {
+      "Entity": "E-CHW-01",
+      "Category": "Exhibit",
+      "Definition_or_Context": "Choice Home Warranty Contract + Logs",
+      "Related_Entity": "I-MISREP",
+      "Relation_Type": "SUPPORTS_ISSUE",
+      "Evidence_or_Quote": "Denials for pre-existing conditions [2018-2019]"
+    },
+    {
+      "Entity": "E-LEASE-01",
+      "Category": "Exhibit",
+      "Definition_or_Context": "Lease Agreement TH-A5",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "GOVERNS",
+      "Evidence_or_Quote": "§VII duties; §XXIII fees; §83.49 [dated 12/22/2017]"
+    },
+    {
+      "Entity": "E-MURANO-01",
+      "Category": "Exhibit",
+      "Definition_or_Context": "Murano Rules & Regulations",
+      "Related_Entity": "I-MAINT",
+      "Relation_Type": "SUPPORTS_ISSUE",
+      "Evidence_or_Quote": "24-hour mold notice; no self-remediation [dated 02/2018]"
+    },
+    {
+      "Entity": "Police Report #2019-00042552",
+      "Category": "Exhibit",
+      "Definition_or_Context": "Referenced in Defendants Reply; spoliation evidence",
+      "Related_Entity": "I-SPOLIATION",
+      "Relation_Type": "SUPPORTS_ISSUE",
+      "Evidence_or_Quote": "Police Report #2019-00042552 documents Plaintiff's unauthorized removal and disposal of Defendant's property"
+    }
+  ],
+  "hearings": [
+    {
+      "Entity": "Hearing 05/23/2024",
+      "Category": "Hearing",
+      "Definition_or_Context": "Defendants MSJ hearing",
+      "Related_Entity": "CIR-99 / DIN 99",
+      "Relation_Type": "HEARING_ON",
+      "Evidence_or_Quote": "Notice of Hrg Special Appt Event 05-23-2024 at 11:00 AM [DIN 102]"
+    },
+    {
+      "Entity": "Hearing 03/13/2025",
+      "Category": "Hearing",
+      "Definition_or_Context": "Transfer Motion hearing",
+      "Related_Entity": "CIR-151 / DIN 151",
+      "Relation_Type": "HEARING_ON",
+      "Evidence_or_Quote": "Motion Calendar Hearing DEFENDANTS' MOTION FOR MANDATORY TRANSFER TO COUNTY COURT [03/13/2025]"
+    },
+    {
+      "Entity": "Hearing 07/21/2025",
+      "Category": "Hearing",
+      "Definition_or_Context": "Special Set - SFJ hearing",
+      "Related_Entity": "CIR-164 / DIN 164",
+      "Relation_Type": "HEARING_ON",
+      "Evidence_or_Quote": "Special Sets Hearing [07/21/2025 at 09:30 AM]"
+    },
+    {
+      "Entity": "Mediation 11/01/2021",
+      "Category": "ADR",
+      "Definition_or_Context": "Mediation conference; no agreement",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "ADR_IN",
+      "Evidence_or_Quote": "The parties mediated the issues in dispute on November 1, 2021. Unfortunately, no agreement was reached at mediation."
+    }
+  ],
+  "timeline": [
+    {
+      "Entity": "05/18/2018",
+      "Category": "Date",
+      "Definition_or_Context": "Original County filing",
+      "Related_Entity": "2018-011311-CC-05",
+      "Relation_Type": "FILED_ON",
+      "Evidence_or_Quote": "Filing Date: 05/18/2018"
+    },
+    {
+      "Entity": "12/22/2017",
+      "Category": "Date",
+      "Definition_or_Context": "Lease execution",
+      "Related_Entity": "E-LEASE-01",
+      "Relation_Type": "EXECUTED_ON",
+      "Evidence_or_Quote": "Lease Agreement TH-A5 [dated 12/22/2017]"
+    },
+    {
+      "Entity": "01/06/2018",
+      "Category": "Date",
+      "Definition_or_Context": "Security deposit notice",
+      "Related_Entity": "E-SEC-01",
+      "Relation_Type": "DATED",
+      "Evidence_or_Quote": "Notice of Intention to Impose Claim on Deposit [01/06/2018]"
+    },
+    {
+      "Entity": "01/14/2020",
+      "Category": "Date",
+      "Definition_or_Context": "Circuit filing after transfer",
+      "Related_Entity": "2020-000746-CA-01",
+      "Relation_Type": "FILED_ON",
+      "Evidence_or_Quote": "Filing Date: 01/14/2020"
+    },
+    {
+      "Entity": "08/02/2025",
+      "Category": "Date",
+      "Definition_or_Context": "Summary Final Judgment entered",
+      "Related_Entity": "CIR-169 / DIN 169",
+      "Relation_Type": "ENTERED_ON",
+      "Evidence_or_Quote": "Summary Final Judgment [DIN 169, 08/02/2025]"
+    },
+    {
+      "Entity": "09/02/2025",
+      "Category": "Date",
+      "Definition_or_Context": "Notice of Appeal filed",
+      "Related_Entity": "CIR-170 / DIN 170",
+      "Relation_Type": "FILED_ON",
+      "Evidence_or_Quote": "Notice of Appeal [DIN 170, 09/02/2025]"
+    }
+  ],
+  "jurisdictional_facts": [
+    {
+      "Entity": "$12,726.49",
+      "Category": "Amount",
+      "Definition_or_Context": "Plaintiff's judicial admission of damages",
+      "Related_Entity": "I-JURIS",
+      "Relation_Type": "AMOUNT_IN_CONTROVERSY",
+      "Evidence_or_Quote": "Motion for Mandatory Transfer to County [DIN 151] - $12,726.49 judicial admission"
+    },
+    {
+      "Entity": "$15,000",
+      "Category": "Threshold",
+      "Definition_or_Context": "County Court jurisdictional limit",
+      "Related_Entity": "I-JURIS",
+      "Relation_Type": "JURISDICTIONAL_LIMIT",
+      "Evidence_or_Quote": "Case Type: Contract and Indebtedness ($8,001- $15,000)"
+    },
+    {
+      "Entity": "$125,627.63",
+      "Category": "Amount",
+      "Definition_or_Context": "Fee request post-SFJ",
+      "Related_Entity": "CIR-173 / DIN 173",
+      "Relation_Type": "FEE_AMOUNT",
+      "Evidence_or_Quote": "Motion for Attorney Fees [DIN 173] - $125,627.63 fee request; 9.87:1 ratio"
+    }
+  ]
+}

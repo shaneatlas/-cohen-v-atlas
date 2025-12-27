@@ -1,0 +1,43 @@
+{
+  "spec_id": "MU5KOSX_UNIFIED",
+  "manifest_version": "1.0.0",
+  "generated_at": "2025-12-27T09:33:04.589555Z",
+  "files": [
+    {
+      "name": "Cohen_CUARC_Entity_Map_v8_full.xlsx",
+      "path": "/mnt/data/Cohen_CUARC_Entity_Map_v8_full.xlsx",
+      "sha256": "af2719327ee3d6e779113ec69381497d7939c4e05f83d8b1600c95212b7a65dc",
+      "bytes": 92793
+    },
+    {
+      "name": "COHEN_INITIAL_BRIEF_AESTHETIC_FINAL.pdf",
+      "path": "/mnt/data/COHEN_INITIAL_BRIEF_AESTHETIC_FINAL.pdf",
+      "sha256": "da3907eb95df461b51c90cc7a5e67b439001e55e36ef2ea040f175adedd1aa21",
+      "bytes": 93835
+    },
+    {
+      "name": "Record - Record on Appeal.pdf",
+      "path": "/mnt/data/Record - Record on Appeal.pdf",
+      "sha256": "eb1fca5d326b634f6b9f0d5bbfbedc8b2d5c16c424502cca6cc3134281ce199a",
+      "bytes": 22042695
+    },
+    {
+      "name": "Record - Record on Appeal.txt",
+      "path": "/mnt/data/Record - Record on Appeal.txt",
+      "sha256": "9ba16e43ea2a0efd01aba0bd8ffb2405b1d38c0795f3483ba1d2f6b631ae6406",
+      "bytes": 1804502
+    },
+    {
+      "name": "option4.zip",
+      "path": "/mnt/data/option4.zip",
+      "sha256": "fdddd0e36671504dbaa3cfd3560953a21d7ecdde34c65f5405615c107859316e",
+      "bytes": 9775
+    },
+    {
+      "name": "MU5KOSX_UNIFIED_SPEC.txt",
+      "path": "/mnt/data/MU5KOSX_UNIFIED_SPEC.txt",
+      "sha256": "01b1ca86cd682db36ab808a78f9fb3cc4a5f0bba05f01b3fb1792a524fbc8593",
+      "bytes": 227
+    }
+  ]
+}
